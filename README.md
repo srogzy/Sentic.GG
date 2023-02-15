@@ -1,7 +1,7 @@
 # Senticcheck 2023
 
 
- ![Sentictyn](https://discord.com/users/513053333011824651)</b><br>
+  ![cowase]([https://discord.com/users/513053333011824651)
 
 <h1 align="center">Discord İletişim <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
