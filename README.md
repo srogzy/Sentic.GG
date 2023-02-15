@@ -4,7 +4,7 @@
 
 • Script'i paylaşmamı istiyorsanız sizlerden 150 star ve 40 Fork bekliyorum.
 
-• Sentic Minecrift Sorgu atmak istiyorsanız [![Discord.gg/sentic](Srogzy)](https://discord.gg/sentic)
+• Sentic Minecraft hesap Sorgulamak istiyorsanız [![Discord.gg/sentic](Srogzy)](https://discord.gg/sentic) sunucusuna gelmeniz Ve ticket açmanız yeterli orda sizlere premium hesap fiyatlarını görürsünüz 
 
 # Görseller
 
