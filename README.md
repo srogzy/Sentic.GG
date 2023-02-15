@@ -1,0 +1,2 @@
+# Sentic-check
+Sorgu Panel
